@@ -27,7 +27,7 @@ return {
       },
     },
     signature = {
-      enable = true,
+      enabled = true,
       window = {
         border = "rounded",
         scrollbar = false,
